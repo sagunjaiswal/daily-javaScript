@@ -1,1 +1,0 @@
-this code will let one understand javaScript date object better
