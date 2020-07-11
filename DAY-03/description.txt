@@ -1,0 +1,3 @@
+This implementation leads heavily upon document.getElementById to determine which portion of the page we should update, which is why we pass through an a CSS id of $id in the HTML. 
+
+Once we have the element on the page, we retrieve the value of that element and then make sure it is ready to increment. 
