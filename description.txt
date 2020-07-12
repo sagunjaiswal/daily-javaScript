@@ -1,0 +1,2 @@
+the JS code gives us the value of href, hreflang, rel, target, and type attributes of a link.
+this helps us understand how to get the ATTRIBUTE value of an element.
