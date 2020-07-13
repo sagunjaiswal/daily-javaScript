@@ -1,11 +1,11 @@
-#DAY-06
+## DAY-06
 This directory has js code which will let you to guess a number.
 we use the Math.random() for that
 
-###Math.random()
+### Math.random()
 `Math.random()`returns a random number between 0 (inclusive), and 1 (exclusive)
 
-####OTHER METHODS FOR MATH OBJECT
+#### OTHER METHODS FOR MATH OBJECT
 
 - `Math.PI;` // returns 3.141592653589793
 - `Math.round(x)` returns the value of x rounded to its nearest integer:
