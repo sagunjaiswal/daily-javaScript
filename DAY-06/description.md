@@ -1,4 +1,4 @@
-##DAY-06
+#DAY-06
 This directory has js code which will let you to guess a number.
 we use the Math.random() for that
 
