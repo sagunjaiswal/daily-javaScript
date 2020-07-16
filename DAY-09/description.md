@@ -1,6 +1,6 @@
 ## DAY-09(max and min element of an array)
 
-![code snippet](codesnippet.png)
+![code snippet](codesnippet.png =100x20)
 Today we will further learn about dealing with arrays in javascript.
 There are no built-in functions for finding the max or min value in an array.
 The built-in functions Math.max() and Math.min() find the maximum and minimum value of the arguments, respectively.
