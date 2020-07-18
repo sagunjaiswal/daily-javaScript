@@ -1,4 +1,4 @@
-## DAY 10 (Array Methods part-1)
+## DAY 10 (Array Methods concat(),includes(),find())
 
 CODE SNIPPET FOR TODAY
 ![code snippet](codesnippet.png)
