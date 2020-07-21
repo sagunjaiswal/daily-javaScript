@@ -1,4 +1,5 @@
 ## DAY-08
+![code snippet](codesnippet.png)
 
 we learn more about javaScript arrays.
 In the js code, we sort and reverse an inputted numeric array.
