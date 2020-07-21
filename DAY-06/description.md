@@ -1,6 +1,7 @@
 ## DAY-06
 This directory has js code which will let you to guess a number.
-we use the Math.random() for that
+we use the Math.random() for that this is  the code
+![code snippet](codesnippet.png)
 
 ### Math.random()
 `Math.random()`returns a random number between 0 (inclusive), and 1 (exclusive)
