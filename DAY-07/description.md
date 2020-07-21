@@ -3,6 +3,8 @@
 we cant copy an array with `=` because the problem with JavaScript is that arrays are mutable.
 Arrays in JS are reference values, so when you try to copy it using the = it will only copy the reference to theoriginal array and not the value of the array. To create a real copy of an array, you need to copy over the valueof the array under a new value variable. That way this new array does not reference to the old array address in memory.
 There are many ways we can copy an array.
+![code snippet](codesnippet.png)
+
 ### WAYS DISCUSSED IN THE JS CODE
 
 1.  #### Spread Operator (Shallow copy)
