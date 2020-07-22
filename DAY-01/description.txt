@@ -1,1 +1,0 @@
-This directory will let one understand js date objects better.
