@@ -24,7 +24,7 @@ The first rule to know is there are only three types of conversion in JavaScript
 
 **TYPE COERCION WITH - OPERATOR**
 
-- usually tries to convert to a number nut not always
+- usually tries to convert to a number but not always
 - '100' - 100 //0
 - 100 - '100' //0
 - '' - 1//-1 (reason : Number("") is 0 , 0-1=-1
