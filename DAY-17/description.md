@@ -8,7 +8,6 @@ CODE SNIPPET FOR TODAY
 - This operator returns the right hand value if the left hand value is null or undefined.
 - _no chaining with && and || operators_.It is not possible to combine both the AND (&&) and OR operators (||) directly with ??. A SyntaxError will be thrown in such cases.
   eg : null || undefined ?? "num"; // raises a SyntaxError,  
-  
   (null || undefined) ?? "num"; // returns "num"
 
 - You can use ternary for two values:
@@ -22,8 +21,9 @@ CODE SNIPPET FOR TODAY
   document.write(name ?? regionalName ?? nickName ?? "Anonymous"); // js
 
 - _difference between || and ??_
-  || returns the first truthy value(except false, 0, -0, 0n, "", null, undefined, NaN every thing is truthy)
-  ?? returns the first defined value.
+
+  -  || returns the first truthy value(except false, 0, -0, 0n, "", null, undefined, NaN every thing is truthy)
+   - ?? returns the first defined value.
   eg: let num = 0;
   console.log(num || 8); // 8  
    console.log(num ?? 8); // 0
