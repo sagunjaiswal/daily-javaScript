@@ -7,7 +7,8 @@ CODE SNIPPET FOR TODAY
 
 - This operator returns the right hand value if the left hand value is null or undefined.
 - _no chaining with && and || operators_.It is not possible to combine both the AND (&&) and OR operators (||) directly with ??. A SyntaxError will be thrown in such cases.
-  eg : null || undefined ?? "num"; // raises a SyntaxError
+  eg : null || undefined ?? "num"; // raises a SyntaxError,  
+  
   (null || undefined) ?? "num"; // returns "num"
 
 - You can use ternary for two values:
