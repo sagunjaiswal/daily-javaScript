@@ -26,10 +26,12 @@ _writing HEX numbers_
 Positive hexadecimals must begin with 0x and negative hexadecimals must begin with -0x. eg : 0xFF -0xCCFF
 
 _writing octal numbers_
+uses 0o prefex
 Positive octal numbers must begin with 0 (zero) followed by octal digit(s).
 Negative octal numbers must begin with -0 followed by octal digit(s). eg.: 0o377
 
-similarly for binary values as well.
+_writing binary values_
+uses 0b prefex. eg.: 0b11111111
 
 Math.round(), Math.ceil, Math.floor are some useful functions to use as well.
 
