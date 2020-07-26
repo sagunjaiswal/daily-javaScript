@@ -19,19 +19,23 @@ CODE SNIPPET FOR TODAY
 
 **A number data type can be an integer, a floating point value, an exponential value, a ‘NaN’ or a ‘Infinity’.**
 
-_Writing bigger numbers_
+_Writing bigger numbers_:
+
 In JavaScript, we shorten a number by appending the letter "e" to the number and specifying the zeroes count. eg: 1.2e3//1200
 
-_writing HEX numbers_
+_writing HEX numbers_:
+
 Positive hexadecimals must begin with 0x and negative hexadecimals must begin with -0x. eg : 0xFF -0xCCFF
 
-_writing octal numbers_
-uses 0o prefex
+_writing octal numbers_ :
+
+we use 0o prefex
 Positive octal numbers must begin with 0 (zero) followed by octal digit(s).
 Negative octal numbers must begin with -0 followed by octal digit(s). eg.: 0o377
 
-_writing binary values_
-uses 0b prefex. eg.: 0b11111111
+_writing binary values_:
+
+we use 0b prefex. eg.: 0b11111111
 
 Math.round(), Math.ceil, Math.floor are some useful functions to use as well.
 
