@@ -21,7 +21,7 @@ CODE SNIPPET FOR TODAY
 
 - Single and double quotes are essentially the same. Backticks, however, allow us to embed any expression into the string, by wrapping it in \${…}
 
-_Special Characters_
+  _Special Characters_
 
 - It is still possible to create multiline strings with single and double quotes by using a so-called “newline character”, written as \n, which denotes a line break
 
@@ -36,4 +36,4 @@ _Special Characters_
 
 - JavaScript has a new keyword that we can use against a wrapper object to create Strings.
 
-- if we create using new keuword. we need to use a String wrapper object’s function, named valueOf().
+- if we create using new keyword. we need to use a String wrapper object’s function, named valueOf().
