@@ -4,14 +4,14 @@ Lets learn the awesome and one of the most powerful language javascript. One top
 
 |DAY NUMBER|TOPIC|
 |:---:|:---:|
-| DAY-1  |   |
-| DAY-2  |   |
-| DAY-3 |   |
-| DAY-4  |   |
-| DAY-5  |   |
-| DAY-6  |   |
-| DAY-7  |   |
-| DAY-8  |   |
+| DAY-1  | Type Conversion(String(),Number(),Boolean())  |
+| DAY-2  | Operators(logical,ternary,comparison operator)  |
+| DAY-3 | Math Object |
+| DAY-4  | Array-cloning |
+| DAY-5  | Array-sort(),reverse() |
+| DAY-6  | Array-min(),max()  |
+| DAY-7  | Array-concat(),includes(),find()  |
+| DAY-8  | Array-filter(),map()  |
 | DAY-9  |   |
 | DAY-10  |   |
 | DAY-11  |   |
